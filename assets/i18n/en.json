@@ -1,0 +1,62 @@
+{
+    "NAV": {
+        "HOME": "Home",
+        "ABOUT": "About",
+        "FEATURES": "Features",
+        "CITIES": "Cities",
+        "DOWNLOAD": "Download App"
+    },
+    "FOOTER": {
+        "TAGLINE": "Your spiritual companion for Ayodhya, Varanasi, and Vrindavan.",
+        "LINKS": "Quick Links",
+        "CONTACT": "Contact Us",
+        "RIGHTS": "All rights reserved."
+    },
+    "HOME": {
+        "TITLE": "Your Spiritual Journey Begins Here",
+        "SUBTITLE": "Explore sacred cities of Ayodhya, Varanasi & Vrindavan with comprehensive guides in your language",
+        "DOWNLOAD_IOS": "Download on App Store",
+        "DOWNLOAD_ANDROID": "Get it on Google Play",
+        "CITIES_TITLE": "Sacred Cities",
+        "STATS_TITLE": "Our Impact",
+        "STATS_TEMPLES": "Temples Documented",
+        "STATS_CITIES": "Sacred Cities",
+        "STATS_GUIDES": "Verified Guides",
+        "CTA_TITLE": "Start Your Journey Today",
+        "CTA_BUTTON": "Download App Now"
+    },
+    "CITIES": {
+        "AYODHYA": "Ayodhya",
+        "VARANASI": "Varanasi",
+        "VRINDAVAN": "Vrindavan",
+        "AYODHYA_DESC": "Birthplace of Lord Rama",
+        "VARANASI_DESC": "City of Lights & Ghats",
+        "VRINDAVAN_DESC": "Land of Krishna Leela"
+    },
+    "ABOUT": {
+        "TITLE": "About Bhakti Dhaam",
+        "STORY_TITLE": "Our Story",
+        "STORY_TEXT": "Bhakti Dhaam was born from a desire to bridge the gap between ancient spirituality and modern convenience. We recognized the need for a comprehensive, accessible guide for pilgrims visiting India's most sacred cities.",
+        "MISSION_TITLE": "Our Mission",
+        "MISSION_TEXT": "To empower spiritual journeys through technology, making sacred knowledge and practical information accessible to devotees worldwide.",
+        "VISION_TITLE": "Our Vision",
+        "VISION_TEXT": "To create a global platform that preserves and promotes India's spiritual heritage while facilitating seamless pilgrimage experiences."
+    },
+    "FEATURES": {
+        "TITLE": "App Features",
+        "CITY_GUIDES": "Comprehensive City Guides",
+        "TEMPLE_DIR": "Detailed Temple Directory",
+        "GHAT_INFO": "Sacred Ghat Information",
+        "ACCOMMODATION": "Stays & Dharamshalas",
+        "SERVICES": "Local Services & Guides",
+        "OFFLINE": "Offline Access"
+    },
+    "DOWNLOAD": {
+        "TITLE": "Download Bhakti Dhaam",
+        "SUBTITLE": "Your Spiritual Companion Awaits",
+        "DESC": "Experience the divine journey with our mobile app. Available on iOS and Android.",
+        "IOS": "Download for iOS",
+        "ANDROID": "Download for Android",
+        "QR_TEXT": "Scan to Download"
+    }
+}
